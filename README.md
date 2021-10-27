@@ -2,7 +2,7 @@
 iOS assignment 4: Image Classification App.
 
 作业 4-1 
-  请基于模板工程(starter)，运用CoreML开发一个利用卷积神经网络分类snacks的App
+  请基于模板工程(starter/HealthySnacks)，运用CoreML开发一个利用卷积神经网络分类snacks的App
 
 功能要求如下：
 
@@ -16,7 +16,7 @@ iOS assignment 4: Image Classification App.
 
 
 作业 4-2
-  请基于模板工程(starter)，运用CoreML开发一个利用卷积神经网络分类健康和非健康snacks的App
+  请基于模板工程(starter/HealthySnacks)，运用CoreML开发一个利用卷积神经网络分类健康和非健康snacks的App
 
 功能要求如下：
 
@@ -29,4 +29,7 @@ iOS assignment 4: Image Classification App.
 
 1. 面对不属于数据集内给定snacks类别以外的图片，或模型本身把握不准的图片，给出“我不确定”的判断
 
+作业 4-3 （无需提交结果，自学）
+
+通过train_model.ipynb，学习PyTorch训练模型流程，以及如何将PyTorch模型转换为mlmodel的格式
 
